@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.card {
+  height: 300px;
+  width: 400px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  outline: none;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 18px;
+  color: #0b69ff;
+}
+.para {
+  color: #333333;
+}
+.button {
+  height: 30px;
+  width: 110px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-style: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.number {
+  font-size: 32px;
+  color: #0b69ff;
+}
